@@ -3,7 +3,7 @@
 ## Tanulmány adatai
 - **Szerzők:** K.E. Schütz, N.R. Cox, V.M. Cave, F.J. Huddart, C.B. Tucker
 - **Folyóirat:** Applied Animal Behaviour Science 261 (2023)
-- **DOI:** 1-s2.0-S0168159123000679
+- **DOI:** 10.1016/j.applanim.2023.105895
 
 ---
 
@@ -17,7 +17,7 @@ A kísérletet 60 vemhes, új-zélandi fríz keresztezett tehénnel végezték, 
 
 ## 3. Eredmények
 
-A fekvési idő átlagosan 8,1 és 9,1 óra között mozgott a különböző kezelési csoportokban; az OAD teheneknél volt a leghosszabb, míg a késői fejésű csoportnál a legrövidebb. A legelészési és kérődzési minták jelentősen megváltoztak a kezelések hatására: a kontroll csoport a délutáni órákban mutatott csúcsaktivitást, míg a késői etetésű csoportok később kezdtek el intenzíven legelészni és kérődzni. A testhőmérséklet csúcsértékei a késői fejésű és OAD csoportoknál alacsonyabbak voltak a délutáni órákban, összehasonlítva a kontroll csoporttal. A légzésszám szintén alacsonyabb volt ezekben a csoportokban, jelezve a csökkent hőterhelést. A tejtermelés az OAD csoportban jelentősen, 28%-kal csökkent a kétszeri fejésű csoportokhoz képest, míg a késői fejésű és etetésű csoportok között nem volt szignifikáns különbség a kontrollhoz képest.
+A fekvési idő átlagosan 8,1 és 9,1 óra között mozgott a különböző kezelési csoportokban; az OAD teheneknél volt a leghosszabb, míg a késői fejésű csoportnál a legrövidebb. A legelészési és kérődzési minták jelentősen megváltoztak a kezelések hatására: a kontroll csoport a délutáni órákban mutatott csúcsaktivitást, míg a késői etetésű csoportok később kezdtek el intenzíven legelészni és kérődzni. A testhőmérséklet csúcsértékei a késői fejésű és OAD csoportoknál alacsonyabbak voltak a délutáni órákban, összehasonlítva a kontroll csoporttal. A légzésszám szintén alacsonyabb volt ezekben a csoportokban, jelezve a csökkent hőterhelést. A tejtermelés az OAD csoportban jelentősen, 28%-kal csökkent a kétszeri fejésű csoportokhoz képest, míg a késői fejésű és etetésű csoportok és a kontroll között nem volt szignifikáns különbség.
 
 ## 4. Megbeszélés
 
