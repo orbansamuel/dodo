@@ -128,7 +128,7 @@ Applied Animal Behaviour Science
 
 Megjelenés: 2023. március 11.
 
-Open access cikk (CC BY-NC-ND licensz)
+Open access cikk (CC BY-NC-ND licenc)
 
 **Szerzők:** K.E. Schütz, N.R. Cox, V.M. Cave, F.J. Huddart, C.B. Tucker
 

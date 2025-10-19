@@ -147,4 +147,4 @@ Hogyan lehet csökkenteni a tehenek hőterhelését nyáron legelőn, ahol nincs
 
 Applied Animal Behaviour Science 261 (2023) 105895
 Megjelenés: 2023. március 11.
-Open access cikk (CC BY-NC-ND licensz)
+Open access cikk (CC BY-NC-ND licenc)
